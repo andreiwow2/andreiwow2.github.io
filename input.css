@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#img_0008 {
+    background: url('./img/howto/IMG_0008.webp');
+    background-position: 50% 80%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#img_0007 {
+    background: url('./img/howto/IMG_0007.webp');
+    background-position: 50% 80%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
